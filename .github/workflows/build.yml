@@ -48,3 +48,4 @@ jobs:
         with:
           name: EPs-Video-APK
           path: extracted/EPsVideo-Final/app/build/outputs/apk/debug/app-debug.apk
+Add Android APK build workflow.
